@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate
 from graph_utils import get_related_nodes
 
 # Configure Google Gemini API with your API key
-genai.configure(api_key="AIzaSyCcTRg7I0A0haog3F5HrY8b5CE7mwfs3io")  # Replace with your actual API key
+genai.configure(api_key=" API key")  # Replace with your actual
 
 # Prompt template setup
 prompt_template = PromptTemplate(
